@@ -16,10 +16,3 @@ It allows performing **CRUD operations**, along with search, filter, and count f
 - **Filter by Location** – View farmers from a particular location.  
 
 ---
-
-## 🗄 Database Setup
-
-### 1️⃣ Create Database
-```sql
-CREATE DATABASE FarmerDB;
-GO
